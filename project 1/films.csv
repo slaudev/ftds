@@ -1,0 +1,101 @@
+Position,Title,URL,IMDb Rating,Runtime (mins),Year,Genres,Num Votes,Release Date,Directors
+1,Gisaengchung,https://www.imdb.com/title/tt6751668/,8.5,132,2019,"Drama, Thriller",945895,5/21/2019,Bong Joon Ho
+2,Arrival,https://www.imdb.com/title/tt2543164/,7.9,116,2016,"Drama, Mystery, Sci-Fi",762212,9/1/2016,Denis Villeneuve
+3,Jojo Rabbit,https://www.imdb.com/title/tt2584384/,7.9,108,2019,"Comedy, Drama, War",437658,9/8/2019,Taika Waititi
+4,Inception,https://www.imdb.com/title/tt1375666/,8.8,148,2010,"Action, Adventure, Sci-Fi, Thriller",2533494,7/8/2010,Christopher Nolan
+5,Get Out,https://www.imdb.com/title/tt5052448/,7.8,104,2017,"Horror, Mystery, Thriller",689565,1/23/2017,Jordan Peele
+6,Werk ohne Autor,https://www.imdb.com/title/tt5311542/,7.7,189,2018,"Biography, Drama, Romance, Thriller, War",25138,9/4/2018,Florian Henckel von Donnersmarck
+7,Druk,https://www.imdb.com/title/tt10288566/,7.7,117,2020,Drama,192724,9/12/2020,Thomas Vinterberg
+8,The Dark Knight,https://www.imdb.com/title/tt0468569/,9,152,2008,"Action, Crime, Drama, Thriller",2852431,7/14/2008,Christopher Nolan
+9,Loving Vincent,https://www.imdb.com/title/tt3262342/,7.8,94,2017,"Animation, Drama, Mystery",63174,6/12/2017,"DK Welchman, Hugh Welchman"
+10,What We Do in the Shadows,https://www.imdb.com/title/tt3416742/,7.6,86,2014,"Comedy, Horror",199197,1/19/2014,"Taika Waititi, Jemaine Clement"
+11,Room,https://www.imdb.com/title/tt3170832/,8.1,118,2015,"Drama, Thriller",448011,9/4/2015,Lenny Abrahamson
+12,Nomadland,https://www.imdb.com/title/tt9770150/,7.3,107,2020,Drama,181726,9/11/2020,Chloé Zhao
+13,Låt den rätte komma in,https://www.imdb.com/title/tt1139797/,7.8,114,2008,"Drama, Fantasy, Horror, Romance",226098,1/26/2008,Tomas Alfredson
+14,Moneyball,https://www.imdb.com/title/tt1210166/,7.6,133,2011,"Biography, Drama, Sport",461788,9/9/2011,Bennett Miller
+15,Logan,https://www.imdb.com/title/tt3315342/,8.1,137,2017,"Action, Drama, Sci-Fi, Thriller",825410,2/17/2017,James Mangold
+16,A Beautiful Day in the Neighborhood,https://www.imdb.com/title/tt3224458/,7.2,109,2019,"Biography, Drama",88097,9/7/2019,Marielle Heller
+17,There Will Be Blood,https://www.imdb.com/title/tt0469494/,8.2,158,2007,Drama,637694,9/27/2007,Paul Thomas Anderson
+18,Black Hawk Down,https://www.imdb.com/title/tt0265086/,7.7,144,2001,"Action, Drama, History, War",421648,12/18/2001,Ridley Scott
+19,Phoenix,https://www.imdb.com/title/tt2764784/,7.3,98,2014,"Drama, History, Music, Romance",20551,9/5/2014,Christian Petzold
+20,The Death of Stalin,https://www.imdb.com/title/tt4686844/,7.3,107,2017,"Comedy, Drama, History",112693,9/8/2017,Armando Iannucci
+21,Locke,https://www.imdb.com/title/tt2692904/,7.1,85,2013,Drama,158934,9/2/2013,Steven Knight
+22,Spotlight,https://www.imdb.com/title/tt1895587/,8.1,129,2015,"Biography, Crime, Drama",499836,9/3/2015,Tom McCarthy
+23,Chocolat,https://www.imdb.com/title/tt0241303/,7.2,121,2000,"Drama, Romance",201261,12/15/2000,Lasse Hallström
+24,Batman Begins,https://www.imdb.com/title/tt0372784/,8.2,140,2005,"Action, Crime, Drama",1569488,5/31/2005,Christopher Nolan
+25,Lincoln,https://www.imdb.com/title/tt0443272/,7.3,150,2012,"Biography, Drama, History, War",271797,10/8/2012,Steven Spielberg
+26,In Bruges,https://www.imdb.com/title/tt0780536/,7.9,107,2008,"Comedy, Crime, Drama, Thriller",459644,1/17/2008,Martin McDonagh
+27,Mad Max: Fury Road,https://www.imdb.com/title/tt1392190/,8.1,120,2015,"Action, Adventure, Sci-Fi, Thriller",1078215,5/7/2015,George Miller
+28,The Shape of Water,https://www.imdb.com/title/tt5580390/,7.3,123,2017,"Drama, Fantasy, Romance",445675,8/31/2017,Guillermo del Toro
+29,Moonlight,https://www.imdb.com/title/tt4975722/,7.4,111,2016,Drama,329935,9/2/2016,Barry Jenkins
+30,Inglourious Basterds,https://www.imdb.com/title/tt0361748/,8.4,153,2009,"Adventure, Drama, War",1572574,5/20/2009,Quentin Tarantino
+31,Ida,https://www.imdb.com/title/tt2718492/,7.4,82,2013,Drama,60524,8/30/2013,Pawel Pawlikowski
+32,Up,https://www.imdb.com/title/tt1049413/,8.3,96,2009,"Animation, Adventure, Comedy, Drama, Family",1117933,5/13/2009,"Pete Docter, Bob Peterson"
+33,Spider-Man: Into the Spider-Verse,https://www.imdb.com/title/tt4633694/,8.4,117,2018,"Animation, Action, Adventure, Comedy, Family, Fantasy, Sci-Fi",663835,12/12/2018,"Bob Persichetti, Peter Ramsey, Rodney Rothman"
+34,Up in the Air,https://www.imdb.com/title/tt1193138/,7.4,109,2009,"Comedy, Drama, Romance",348598,9/5/2009,Jason Reitman
+35,Michael Clayton,https://www.imdb.com/title/tt0465538/,7.2,119,2007,"Crime, Drama, Mystery, Thriller",173587,8/31/2007,Tony Gilroy
+36,District 9,https://www.imdb.com/title/tt1136608/,7.9,112,2009,"Action, Sci-Fi, Thriller",714328,8/13/2009,Neill Blomkamp
+37,Blade Runner 2049,https://www.imdb.com/title/tt1856101/,8,164,2017,"Action, Drama, Mystery, Sci-Fi, Thriller",655918,10/3/2017,Denis Villeneuve
+38,Skyfall,https://www.imdb.com/title/tt1074638/,7.8,143,2012,"Action, Adventure, Thriller",728697,10/23/2012,Sam Mendes
+39,Hodejegerne,https://www.imdb.com/title/tt1614989/,7.5,100,2011,"Action, Crime, Thriller",106671,8/4/2011,Morten Tyldum
+40,Serbuan maut,https://www.imdb.com/title/tt1899353/,7.6,101,2011,"Action, Crime, Thriller",216189,9/8/2011,Gareth Evans
+41,Brokeback Mountain,https://www.imdb.com/title/tt0388795/,7.7,134,2005,"Drama, Romance",380203,9/2/2005,Ang Lee
+42,Life of Pi,https://www.imdb.com/title/tt0454876/,7.9,127,2012,"Adventure, Drama, Fantasy",664013,9/28/2012,Ang Lee
+43,Whiplash,https://www.imdb.com/title/tt2582802/,8.5,106,2014,"Drama, Music",978356,1/16/2014,Damien Chazelle
+44,Gladiator,https://www.imdb.com/title/tt0172495/,8.5,155,2000,"Action, Adventure, Drama",1609139,5/1/2000,Ridley Scott
+45,Short Term 12,https://www.imdb.com/title/tt2370248/,7.9,96,2013,Drama,91586,3/10/2013,Destin Daniel Cretton
+46,The Others,https://www.imdb.com/title/tt0230600/,7.6,101,2001,"Horror, Mystery, Thriller",391427,8/2/2001,Alejandro Amenábar
+47,Training Day,https://www.imdb.com/title/tt0139654/,7.7,122,2001,"Crime, Drama, Thriller",470101,9/2/2001,Antoine Fuqua
+48,1917,https://www.imdb.com/title/tt8579674/,8.2,119,2019,"Action, Drama, War",668744,12/4/2019,Sam Mendes
+49,Little Women,https://www.imdb.com/title/tt3281548/,7.8,135,2019,"Drama, Romance",242374,12/7/2019,Greta Gerwig
+50,Jackie,https://www.imdb.com/title/tt1619029/,6.7,100,2016,"Biography, Drama",83244,9/7/2016,Pablo Larraín
+51,The Lord of the Rings: The Return of the King,https://www.imdb.com/title/tt0167260/,9,201,2003,"Action, Adventure, Drama, Fantasy",1966671,12/1/2003,Peter Jackson
+52,V for Vendetta,https://www.imdb.com/title/tt0434409/,8.2,132,2005,"Action, Drama, Sci-Fi, Thriller",1174893,12/11/2005,James McTeigue
+53,High Fidelity,https://www.imdb.com/title/tt0146882/,7.4,113,2000,"Comedy, Drama, Music, Romance",189075,3/17/2000,Stephen Frears
+54,School of Rock,https://www.imdb.com/title/tt0332379/,7.2,109,2003,"Comedy, Music",328835,9/9/2003,Richard Linklater
+55,Tropic Thunder,https://www.imdb.com/title/tt0942385/,7.1,107,2008,"Action, Comedy, War",445744,8/11/2008,Ben Stiller
+56,The 40 Year Old Virgin,https://www.imdb.com/title/tt0405422/,7.1,116,2005,"Comedy, Romance",464512,8/11/2005,Judd Apatow
+57,Julie & Julia,https://www.imdb.com/title/tt1135503/,7,123,2009,"Biography, Drama, Romance",128385,7/30/2009,Nora Ephron
+58,The Devil Wears Prada,https://www.imdb.com/title/tt0458352/,6.9,109,2006,"Comedy, Drama",462521,6/19/2006,David Frankel
+59,The Grand Budapest Hotel,https://www.imdb.com/title/tt2278388/,8.1,99,2014,"Adventure, Comedy, Crime",881331,2/6/2014,Wes Anderson
+60,WALL·E,https://www.imdb.com/title/tt0910970/,8.4,98,2008,"Animation, Adventure, Family, Sci-Fi",1193500,6/21/2008,Andrew Stanton
+61,Inside Out,https://www.imdb.com/title/tt2096673/,8.1,95,2015,"Animation, Adventure, Comedy, Drama, Family, Fantasy",779439,5/18/2015,"Pete Docter, Ronnie Del Carmen"
+62,Iron Man,https://www.imdb.com/title/tt0371746/,7.9,126,2008,"Action, Adventure, Sci-Fi",1119146,4/14/2008,Jon Favreau
+63,Elf,https://www.imdb.com/title/tt0319343/,7.1,97,2003,"Adventure, Comedy, Family, Fantasy, Romance",309869,10/9/2003,Jon Favreau
+64,Walk the Line,https://www.imdb.com/title/tt0358273/,7.8,136,2005,"Biography, Drama, Music, Romance",264757,9/4/2005,James Mangold
+65,Dunkirk,https://www.imdb.com/title/tt5013056/,7.8,106,2017,"Action, Drama, History, Thriller, War",734351,7/13/2017,Christopher Nolan
+66,The Social Network,https://www.imdb.com/title/tt1285016/,7.8,120,2010,"Biography, Drama",754543,9/24/2010,David Fincher
+67,Carol,https://www.imdb.com/title/tt2402927/,7.3,118,2015,"Drama, Romance",141710,5/17/2015,Todd Haynes
+68,Ex Machina,https://www.imdb.com/title/tt0470752/,7.7,108,2014,"Drama, Sci-Fi, Thriller",583375,12/16/2014,Alex Garland
+69,El secreto de sus ojos,https://www.imdb.com/title/tt1305806/,8.2,129,2009,"Drama, Mystery, Romance, Thriller",221377,8/13/2009,Juan José Campanella
+70,Selma,https://www.imdb.com/title/tt1020072/,7.5,128,2014,"Biography, Drama, History",95226,11/11/2014,Ava DuVernay
+71,Avatar,https://www.imdb.com/title/tt0499549/,7.9,162,2009,"Action, Adventure, Fantasy, Sci-Fi",1380553,12/10/2009,James Cameron
+72,Bridesmaids,https://www.imdb.com/title/tt1478338/,6.8,125,2011,Comedy,307930,4/28/2011,Paul Feig
+73,Paddington,https://www.imdb.com/title/tt1109624/,7.3,95,2014,"Adventure, Comedy, Family, Fantasy",132606,11/23/2014,Paul King
+74,X-Men: Days of Future Past,https://www.imdb.com/title/tt1877832/,7.9,132,2014,"Action, Adventure, Sci-Fi, Thriller",742401,5/10/2014,Bryan Singer
+75,The VVitch: A New-England Folktale,https://www.imdb.com/title/tt4263482/,7,92,2015,"Drama, Fantasy, Horror, Mystery, Thriller",297962,1/23/2015,Robert Eggers
+76,Le fabuleux destin d'Amélie Poulain,https://www.imdb.com/title/tt0211915/,8.3,122,2001,"Comedy, Romance",791506,4/25/2001,Jean-Pierre Jeunet
+77,Lady Bird,https://www.imdb.com/title/tt4925292/,7.4,94,2017,"Comedy, Drama",325405,9/1/2017,Greta Gerwig
+78,Gravity,https://www.imdb.com/title/tt1454468/,7.7,91,2013,"Drama, Sci-Fi, Thriller",860381,8/28/2013,Alfonso Cuarón
+79,Wonder Woman,https://www.imdb.com/title/tt0451279/,7.3,141,2017,"Action, Adventure, Fantasy, Sci-Fi, War",696955,5/15/2017,Patty Jenkins
+80,Oldeuboi,https://www.imdb.com/title/tt0364569/,8.3,120,2003,"Action, Drama, Mystery, Thriller",631146,11/21/2003,Park Chan-wook
+81,Phantom Thread,https://www.imdb.com/title/tt5776858/,7.4,130,2017,"Drama, Romance",144582,12/11/2017,Paul Thomas Anderson
+82,No Country for Old Men,https://www.imdb.com/title/tt0477348/,8.2,122,2007,"Crime, Drama, Thriller",1052413,5/19/2007,"Ethan Coen, Joel Coen"
+83,Donnie Darko,https://www.imdb.com/title/tt0246578/,8,113,2001,"Drama, Mystery, Sci-Fi, Thriller",846061,1/19/2001,Richard Kelly
+84,Nightcrawler,https://www.imdb.com/title/tt2872718/,7.8,117,2014,"Crime, Drama, Thriller",600587,9/5/2014,Dan Gilroy
+85,Hugo,https://www.imdb.com/title/tt0970179/,7.5,126,2011,"Adventure, Drama, Family, Fantasy, Mystery",335995,10/10/2011,Martin Scorsese
+86,Sicario,https://www.imdb.com/title/tt3397884/,7.7,121,2015,"Action, Crime, Drama, Mystery, Thriller",471764,5/19/2015,Denis Villeneuve
+87,The Father,https://www.imdb.com/title/tt10272386/,8.2,97,2020,"Drama, Mystery",190210,1/27/2020,Florian Zeller
+88,Sound of Metal,https://www.imdb.com/title/tt5363618/,7.7,120,2019,"Drama, Music",148970,9/6/2019,Darius Marder
+89,Jagten,https://www.imdb.com/title/tt2106476/,8.3,115,2012,Drama,361679,5/20/2012,Thomas Vinterberg
+90,Avengers: Endgame,https://www.imdb.com/title/tt4154796/,8.4,181,2019,"Action, Adventure, Drama, Sci-Fi",1255521,4/18/2019,"Anthony Russo, Joe Russo"
+91,Shaun of the Dead,https://www.imdb.com/title/tt0365748/,7.9,99,2004,"Comedy, Horror",591055,3/29/2004,Edgar Wright
+92,The Aviator,https://www.imdb.com/title/tt0338751/,7.5,170,2004,"Biography, Drama",382750,12/14/2004,Martin Scorsese
+93,Cidade de Deus,https://www.imdb.com/title/tt0317248/,8.6,130,2002,"Crime, Drama",796941,5/18/2002,"Kátia Lund, Fernando Meirelles"
+94,Minority Report,https://www.imdb.com/title/tt0181689/,7.6,145,2002,"Action, Crime, Mystery, Sci-Fi, Thriller",581907,6/17/2002,Steven Spielberg
+95,El laberinto del fauno,https://www.imdb.com/title/tt0457430/,8.2,118,2006,"Drama, Fantasy, War",700411,5/27/2006,Guillermo del Toro
+96,Little Miss Sunshine,https://www.imdb.com/title/tt0449059/,7.8,101,2006,"Comedy, Drama",515560,1/20/2006,"Jonathan Dayton, Valerie Faris"
+97,The Hurt Locker,https://www.imdb.com/title/tt0887912/,7.5,131,2008,"Drama, Thriller, War",472168,9/4/2008,Kathryn Bigelow
+98,12 Years a Slave,https://www.imdb.com/title/tt2024544/,8.1,134,2013,"Biography, Drama, History",738439,8/30/2013,Steve McQueen
+99,Under the Skin,https://www.imdb.com/title/tt1441395/,6.3,108,2013,"Drama, Horror, Mystery, Sci-Fi, Thriller",156915,8/29/2013,Jonathan Glazer
+100,The Act of Killing,https://www.imdb.com/title/tt2375605/,8.2,117,2012,"Documentary, Biography, Crime, History, War",40630,8/31/2012,"Joshua Oppenheimer, Christine Cynn, Anonymous"
